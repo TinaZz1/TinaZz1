@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1>Tina - IT Student 
 
-<!--
-**TinaZz1/TinaZz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Python & Dataframe </b>
+  - [Text analysis from file](https://github.com/TinaZz1/AnalizaTekstuZPliku-home-lab)
+  - [Dataframe operations](https://github.com/TinaZz1/DataframeOperations-home-lab)
+  - [Weather Data Analysis](https://github.com/TinaZz1/WeatherDataAnalysis-home-lab)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Machine Learning </b>
+  - [Home Prices Prediction](https://github.com/TinaZz1/HomePricesPrediction-ml-home-lab)
+
+
+- <b>Neural Networks</b>
+  - [Neural Network Training](https://github.com/TinaZz1/NeuralNetworkTraining-DSS-home-lab)
+  - [MNIST Classification](https://github.com/TinaZz1/MNISTclasification-ml-home-lab)
+
+
+
+
