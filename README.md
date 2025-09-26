@@ -3,7 +3,7 @@
 <h2>Projects:</h2>
 
 - <b>Data Analysis Projects </b>
-  - [Data Jobs Salary Analysis](https://github.com/TinaZz1/Data-related-Jobs-Salary-Analysis-exc)
+  - [Data-related Jobs Salary Analysis](https://github.com/TinaZz1/Data-related-Jobs-Salary-Analysis-exc)
 
 - <b>Python & Dataframe </b>
   - [Text analysis from file](https://github.com/TinaZz1/AnalizaTekstuZPliku-home-lab)
