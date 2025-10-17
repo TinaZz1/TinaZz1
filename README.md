@@ -3,6 +3,7 @@
 <h2>Projects:</h2>
 
 - <b>Data Analysis Projects </b>
+  - [Deeper Analysis of Data-related Jobs](https://github.com/TinaZz1/Deeper_Analysis_of_Data-related_Jobs)
   - [Data-related Jobs Salary Analysis](https://github.com/TinaZz1/Data-related-Jobs-Salary-Analysis-exc)
 
 - <b>Python & Dataframe </b>
